@@ -1,11 +1,11 @@
 ::selection {
-  background: #ec0;
-  color: darkslateblue;
+  background: darkviolet;
+  color: peachpuff;
 }
 
 :root {
-  background-color: orangered;
-  background-image: radial-gradient(deepskyblue, dodgerblue, darkorchid);
+  background-color: deepskyblue;
+  background-image: radial-gradient(#ec0, chartreuse);
   color: #020202;
 }
 
