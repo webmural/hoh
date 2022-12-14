@@ -1,19 +1,19 @@
-html { font-size: max(1em, 10vmax) }
+html { font-size: max(1em, 9vmax) }
 body { margin: auto; padding: 1em }
+article { font-family: monospace }
+code { font-family: sans-serif }
 
 .whale {
   font: 1em sans-serif;
   box-sizing: border-box;
   margin: auto auto 1em;
   padding: 1em;
-  transform: rotate(-60deg);
 }
 
 .swish {
   font-size: calc(2em / 3);
   line-height: 1.61;
   margin: auto auto 22vh;
-  transform: rotate(-120deg);
 }
 
 :any-link {
